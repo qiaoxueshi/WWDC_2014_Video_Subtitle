@@ -6,7 +6,7 @@
 
 2
 00:00:20.046 --> 00:00:22.466 A:middle
-&gt;&gt; Thanks so much for coming
+Thanks so much for coming
 to What's New in Cocoa Touch.
 
 3
